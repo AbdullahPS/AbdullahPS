@@ -14,8 +14,6 @@ My dream is to impact the world forever with my creations.🌎
 
 ![visitors](https://page-views.glitch.me/badge?page_id=AbdullahPS.visitor-badge)
 
-💡 I'm currently learning Rust! 🦀
-
 🤝 I'm looking to connect with more developers!
 
 🔥 My passions: Tech, Linux, coding, hiking, & animals!
@@ -57,6 +55,6 @@ My dream is to impact the world forever with my creations.🌎
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahPS&theme=tokyonight&layout=compact)](https://github.com/AbdullahPS/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahPS&count_private=true&hide=c%2B%2B,c&langs_count=10theme=tokyonight&layout=compact)](https://github.com/AbdullahPS/github-readme-stats)
 
 [![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahPS&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
