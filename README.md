@@ -18,7 +18,7 @@ My dream is to impact the world forever with my creations.🌎
 
 🔥 My passions: Tech, Linux, coding, hiking, & animals!
 
-📫 Reach me at: abdullahtabbal@hotmail.com
+📫 Reach me at: abdullahtabbal@outlook.com
 
  
 ### 🔨 Languages and Tools:   
