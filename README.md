@@ -57,4 +57,4 @@ My dream is to impact the world forever with my creations.🌎
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahPS&count_private=true&hide=c%2B%2B,c&langs_count=10theme=tokyonight&layout=compact)](https://github.com/AbdullahPS/github-readme-stats)
 
-[![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahPS&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahPS&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true](https://github.com/anuraghazra/github-readme-stats)
