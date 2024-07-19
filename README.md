@@ -1,5 +1,8 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
+
 My name is Abdullah Tabbal, I'm a  Front-End Software Engineer.
 
 👨‍💻🖥️🔧 
@@ -55,6 +58,4 @@ My dream is to impact the world forever with my creations.🌎
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahPS&count_private=true&hide=c%2B%2B,c&langs_count=10theme=tokyonight&layout=compact)](https://github.com/AbdullahPS/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
