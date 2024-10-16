@@ -14,7 +14,6 @@ My dream is to impact the world forever with my creations.🌎
 <a href="https://www.linkedin.com/in/abdullahtabbal/" target="_blank">
   <img src="./LinkedIn.png" align="left" alt="Abdullah's LinkedIn" width="25px">
 
-[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
 ![visitors](https://page-views.glitch.me/badge?page_id=AbdullahPS.visitor-badge)
 
 🤝 I'm looking to connect with more developers!
